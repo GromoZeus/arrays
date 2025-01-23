@@ -1,0 +1,28 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GromoZeus/arrays.git"
+  },
+  "author": "Evgeniy Gammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GromoZeus/arrays/issues"
+  },
+  "homepage": "https://github.com/GromoZeus/arrays#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.3",
+    "globals": "^15.14.0",
+    "prettier": "3.4.2"
+  }
+}
