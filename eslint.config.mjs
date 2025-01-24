@@ -19,7 +19,7 @@ export default [
     rules: {
         "no-console": "warn", // Предупреждение для console
         "semi": ["error", "always"], // Требовать точку с запятой
-        "quotes": ["error", "double"], // Использовать двойные кавычки
+        "quotes": ["error", "single"], // Использовать двойные кавычки
     },
     plugins: ["prettier"],
     ignores: ["node_modules/", "dist/"], // Игнорируемые папки
