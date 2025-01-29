@@ -1,3 +1,5 @@
+// Реализуйте функцию, которая сравнивает переданные версии version1 и version2. Если version1 > version2, то функция должна вернуть 1, если version1 < version2, то - -1, если же version1 === version2, то - 0.
+
 const compareVersion = (versa, versb) => {
   const stra = versa.split('.');
   const strb = versb.split('.');

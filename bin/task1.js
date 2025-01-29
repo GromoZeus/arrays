@@ -1,3 +1,5 @@
+// Реализуйте функцию, которая считает вес Хэмминга.
+
 const hammingWeight = (number) => {
   const binaryStr = number.toString(2);
   let result = 0;

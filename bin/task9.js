@@ -1,3 +1,5 @@
+// Реализуйте функцию, которая принимает две матрицы и возвращает новую матрицу — результат их произведения.
+
 const multiply = (matrixA, matrixB) => {
   const multiMatrix = [];
   for (let i = 0; i < matrixA.length; i += 1) {
